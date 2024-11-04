@@ -21,7 +21,7 @@ Feel free to explore my repositories 🔍, and don't hesitate to reach out if yo
 ## Examples of Work
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rin0m/Rin0m](https://github.com/Rin0m/Rin0m)
+- 👨‍💻 All of my projects are available at :
 
 - 📫 How to reach me **mo.ghorbani@gmx.de**
 
