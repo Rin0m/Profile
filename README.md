@@ -22,7 +22,8 @@ Feel free to explore my repositories 🔍, and don't hesitate to reach out if yo
 
 
 ## Github status
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rin0m?cardType=github&theme=dark&preferLogin=false&Background=000000&Text=39DD51&Title=5492F3)](https://git.io/awesome-stats-card) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rin0m?cardType=github&theme=dark&preferLogin=false&Background=000000&Text=39DD51&Title=5492F3)](https://github.com/Rin0m))
+
 
 
 ## Coding status
