@@ -29,4 +29,11 @@ Feel free to explore my repositories 🔍, and don't hesitate to reach out if yo
 
 ## Coding status
 <!--START_SECTION:waka-->
+
+```txt
+YAML       40 mins         █████████████░░░░░░░░░░░░   52.14 %
+Markdown   36 mins         ███████████▓░░░░░░░░░░░░░   46.35 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+```
+
 <!--END_SECTION:waka-->
