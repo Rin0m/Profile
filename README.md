@@ -23,18 +23,10 @@ Feel free to explore my repositories 🔍, and don't hesitate to reach out if yo
 
 ## Github status
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rin0m?cardType=github&theme=dark&preferLogin=false&Background=000000&Text=39DD51&Title=5492F3)](https://github.com/Rin0m)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rin0m&theme=algolia)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rin0m&theme=algolia)<br>
 
-## Coding status
-<!--START_SECTION:waka-->
 
-```txt
-YAML         1 hr 2 mins     █████████████░░░░░░░░░░░░   51.92 %
-Markdown     36 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-JavaScript   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-```
-
-<!--END_SECTION:waka-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rin0m&theme=algolia)
