@@ -10,7 +10,7 @@ I’m a fan of Python, JavaScript and HTML. Beyond the technical side, I love sp
 Feel free to explore my repositories 🔍, and don't hesitate to reach out if you want to connect or collaborate 🤝!<br><br>
 
 ## Languages & Platforms</br>
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,github,git )](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,github,git )](https://skillicons.dev)<br>
 <br>
 
 ## Examples of Work
